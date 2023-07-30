@@ -113,7 +113,7 @@ follow this step:
 Install the necessary dependencies: `npm install`
 3. Setup environment variables by creating a .env file in the root directory. It should contain the following:
     ```
-    PORT=5000
+    PORT=3000
     MONGO_URL=your_mongodb_url
     ```
 4. Replace `your_mongodb_url` with your actual MongoDB connection URL.
